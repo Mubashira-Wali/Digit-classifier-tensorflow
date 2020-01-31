@@ -7,7 +7,7 @@ We start by importing TensorFlow and other supporting libraries that are used fo
 ## Download and explore the MNIST dataset
 
 The MNIST database contains 60,000 training images and 10,000 testing images of handwritten digits. We will use the dataset to train our digit classification model.
-Each image in the MNIST dataset is a 28x28 grayscale image containing a digit from 0 to 9, and a label identifying which digit is in the
+Each image in the MNIST dataset is a 28x28 grayscale image containing a digit from 0 to 9, and a label identifying which digit is in the image
 
 ![Hand Written Digit](https://miro.medium.com/max/372/1*AO2rIhzRYzFVQlFLx9DM9A.png)
 
